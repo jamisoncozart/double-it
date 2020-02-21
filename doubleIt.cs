@@ -4,6 +4,7 @@ class DoubleIt
 {
   static void Main()
   {
-    //program logic will go here
+    Console.WriteLine("Give me a number and I will double it for you!");
+    int yourNumber = Console.ReadLine();
   }
 }
